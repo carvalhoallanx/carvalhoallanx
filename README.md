@@ -1,16 +1,15 @@
-## Hi there 👋
+#👋 Fala aí, eu sou o Alan!
 
-<!--
-**carvalhoallanx/carvalhoallanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em IA e aplicações com LLM  
+🚀 Criando projetos com LangChain, Streamlit e RAG  
 
-Here are some ideas to get you started:
+## 🔥 Projetos
+- 📄 Chat com PDF (RAG)
+- 🤖 Assistente com memória
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini.png" width="50" height="50"/> 
+
+Python | Streamlit | LangChain | Ollama | Gemini
+
+## 📊 Stat
