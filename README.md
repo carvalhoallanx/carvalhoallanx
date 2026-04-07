@@ -1,4 +1,4 @@
-#👋 Fala aí, eu sou o Alan!
+#👋 Fala aí pessoal, eu sou o Alan!
 
 💻 Desenvolvedor focado em IA e aplicações com LLM  
 🚀 Criando projetos com LangChain, Streamlit, FastAPI e RAG  
