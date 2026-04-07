@@ -1,15 +1,14 @@
 #👋 Fala aí, eu sou o Alan!
 
 💻 Desenvolvedor focado em IA e aplicações com LLM  
-🚀 Criando projetos com LangChain, Streamlit e RAG  
+🚀 Criando projetos com LangChain, Streamlit, FastAPI e RAG  
 
 ## 🔥 Projetos
-- 📄 Chat com PDF (RAG)
-- 🤖 Assistente com memória
-
+- 📄 ChatDOC (RAG)
+- 
 ## 🛠️ Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini.png" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini.png" width="50" height="50"/> 
 
-Python | Streamlit | LangChain | Ollama | Gemini
+Python | Streamlit | LangChain | FastAPI | Ollama | Gemini
 
 ## 📊 Stat
